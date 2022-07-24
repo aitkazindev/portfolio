@@ -5,7 +5,7 @@
 - App : Music Search ITunes
 - Technologies : API, Swift, Player
 
-<img src="images/46.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
+<img src="images/musicapp.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
 
 ### 카카오톡 오픈채팅
 
