@@ -2,9 +2,8 @@
 
 ### 네이버 카페
 
-- 소속 : (주) 네이버
-- 기간 : 2020년 8월 ~ 현재
-- 사용기술 : Objective-C, Swift, Http, concurrency (async/await/actor)
+- App : Music Search ITunes
+- Technologies : API, Swift, Player
 
 <img src="images/46.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
 
