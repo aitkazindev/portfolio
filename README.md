@@ -1,227 +1,132 @@
-# Ibrahim's Portfolio
-
-### MusicApp
-
-- App : Music Search ITunes
-- Technologies : API, Swift, Player
-
-<img src="images/musicapp.png" width="300" height="654"/> <img src="images/47.png" width="300" height="654"/> 
-
-### 카카오톡 오픈채팅
-
-카카오톡 오픈채팅 개발
-
-- 소속 : (주) 카카오
-- 기간 : 2016년 6월 ~ 2020년 8월
-- 사용기술 : Swift, Objective-C, 코어데이터, Http, Socket
-
-<img src="images/45.jpeg" width="300"/> 
-
-### 단키, 한글키 
-
-단키 : 단모음, 무이단모음, 한글 쿼티 키보드 제공 
-한글키 : 천지인, 나랏글, 천지인Plus 키보드 제공
-
-커서 이동 기능, 테마 기능, 여러 옵션 기능 제공
-
-- 소속 : 개인
-- 기간 : 2014년 ~ 현재
-- 사용기술 :  Objective-C, Swift
-- AppStore 단키 (https://itunes.apple.com/app/id922851586), 한글키 (https://itunes.apple.com/app/id935555191)
-
-<img src="images/41.jpeg" width="160"/> <img src="images/42.jpeg" width="160"/> <img src="images/43.jpeg" width="160"/> <img src="images/44.jpeg" width="160"/>
-
-###  잡플래닛 채용
-
-잡플레닛 채용 공고 페이지 개발
-
-- 소속 : (주) 브레인커머스
-- 기간 : 2015년 8월 ~ 2016년 5월
-- 사용기술 : Objective-C, Swift 2
-- 프로젝트 인원 : iOS 4명
-- AppStore (https://itunes.apple.com/app/id981750452)
-
-<img src="images/38.png" width="160"/> <img src="images/39.png" width="160"/> <img src="images/40.png" width="160"/>
-
-### 홈쇼핑 모아
-
-홈&쇼핑, 현대홈쇼핑, 롯데홈쇼핑등 홈쇼핑 실시간 방송 스케쥴, 방송 보기 및 알림 기능 제공
-애플워치 (WatchOS 1) 기능 제공 
-
-- 소속 : (주) 버즈니
-- 기간 : 2015년 2월 ~ 2015년 7월
-- 사용기술 : Objective-C, Swift 2
-- 프로젝트 인원 : 기획 1명, 개발 4명 (프론트 1명, 백엔드 1명, 안드로이드 1명, iOS 1명), 디자인 1명
-- AppStore (https://itunes.apple.com/app/id616581116)
-
-<img src="images/34.png" width="160"/> <img src="images/35.png" width="160"/> <img src="images/36.png" width="300"/>  <img src="images/37.png" width="300"/>
-
-### 노크노크
-
-주소록 동기화를 이용한 모바일 쪽지 (약속 잡기) SNS 서비스
-
-- 소속 : (주) 한시간컴
-- 기간 : 2014년 8월 ~ 2015년 1월
-- 사용기술 : Objective-C, CoreData, APNS
-- 프로젝트 인원 : 기획 1명, 개발 3명 (백엔드 1명, 안드로이드 1명, iOS 1명), 디자인 1명
-- AppStore (https://itunes.apple.com/app/id922396277)
-
-<img src="images/31.jpeg" width="160"/> <img src="images/32.jpeg" width="160"/> <img src="images/33.jpeg" width="160"/>
-
-### 패밀리북
-
-가족 그룹 SNS 서비스 
-글쓰기, 사진 앨범, 1:1 메세징, 가족도 기능 제공
-
-- 소속 : (주) 한시간컴
-- 기간 : 2012년 10월 ~ 2014년 8월
-- 사용기술 : Objective-C, CoreData, APNS
-- 프로젝트 인원 : 기획 1명, 개발 3명 (백엔드 1명, 안드로이드 1명, iOS 1명), 디자인 1명
-- AppStore (http://itunes.apple.com/app/id588633215)
-
-<img src="images/28.jpeg" width="160"/> <img src="images/29.jpeg" width="160"/> <img src="images/30.jpeg" width="160"/>
-
-### SmartRogic
-
-로보로보에서 판매중인 로봇의 제어를 위한 어플리케이션
-
-- 소속 : ROBOROBO Co.,Ltd
-- 기가 : 2014년 8월 ~ 2014년 10월
-- 사용기술 : Objective-C, Core-Bluetooth
-- 프로젝트 인원 : 기획 1명, 개발 3명 (안드로이드 1명, iOS 1명, 임베디드 1명), 디자인 1명
-- AppStore (https://apps.apple.com/app/id942989165)
-
-<img src="images/41-1.png" width="160"/> <img src="images/41-2.png" width="160"/> <img src="images/41-3.png" width="160"/> <img src="images/41-4.png" width="160"/>
-
-### ClienS
-
-클리앙 비 공식 어플리케이션
-클리앙 로그인, 검색, 게시판 리스트, 본문, 댓글 달기, 쪽지 보내기, 회원 메모 및 테마 기능 제공
-
-- 소속 : 개인
-- 기간 : 2012년 ~ 2014년 
-- 사용기술 : Objective-C, 정규식 HTML 파싱
-- AppStore (https://itunes.apple.com/app/id696533191)
-
-<img src="images/22.jpeg" width="160"/> <img src="images/23.jpeg" width="160"/> <img src="images/24.jpeg" width="160"/>
-
-### 솜클라우드 (솜노트, 솜투투)
-
-서버 동기화를 이용한 노트 및 투두 어플리케이션 
-
-- 소속 : (주) 위자드웍스
-- 기간 : 2011년 6월 ~ 2012년 7월
-- 사용기술 : Objective-C, SQLite
-- 프로젝트 인원 : 기획 1명, 개발 4명 (프론트 1명, 백엔드 1명, 안드로이드 1명, iOS 1명), 디자인 1명
-- AppStore (http://itunes.apple.com/app/id515219433)
-
-<img src="images/25.jpeg" width="160"/> <img src="images/26.jpeg" width="160"/> <img src="images/27.jpeg" width="160"/>
-
-### Amore Recruit
-
-아모레퍼시픽 공식 채용 어플리케이션
-채용공채 날짜 제공 및 합격자 발표 기능 제공
-
-- 소속 : (주) 위자드웍스
-- 기간 : 2011년 4월 ~ 2011년 5월
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-- AppStore (http://itunes.apple.com/app/id433372972)
-
-<img src="images/12.png" width="160"/> <img src="images/13.png" width="160"/>
-
-### Pink Ribbon
-
-아모레퍼시픽 핑크 리본 공식 어플리케이션
-API 를 이용한 키오스크와 사진 연동 기능 제공
-
-- 소속 : (주) 위자드웍스
-- 기간 : 2011년 3월
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-- AppStore (http://itunes.apple.com/app/id444664128)
-
-<img src="images/14.png" width="160"/> <img src="images/15.png" width="160"/> <img src="images/16.png" width="160"/>
-
-### UFO Clock
-
-탁상 시계 어플리케이션
-
-- 소속 : (주) 위자드웍스
-- 기간 : 2011년 2월
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-
-<img src="images/17.png" width="160"/> <img src="images/18.png" width="160"/> <img src="images/19.png" width="160"/>
-
-### 청년기술창업 E-Book (iPad)
-
-중기청에서 제공하는 청년 기술 창업 메뉴얼을 E-Book 으로 제공
-epub 을 사용한것이 아니라 네이티브 언어로 모든 페이지 개발
-
-- 소속 : (주) 위자드웍스
-- 기간 : 2011년 1월 
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-- AppStore (https://itunes.apple.com/app/id510642441)
-
-<img src="images/20.png" width="300"/> <img src="images/21.png" width="300"/> 
-
-### CGV v.1.7 ~ v.2.0
-
-CGV 영화예매 공식 어플
-
-- 소속 : NSoft Inc.
-- 기간 : 2010년 11월 ~ 2010년 12월
-- 사용기술 : Objective-C
-
-### 제 15회 부산 국제 영화제
-
-(공식) 제 15회 부산 국제 영화제 어플리케이션
-상영 영화 리스트 및 실시간 예약 기능 제공
-
-- 소속 : NSoft Inc.
-- 기간 : 2010년 8월 ~ 2010년 10월
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-- AppStore (https://itunes.apple.com/app/id393091798)
-
-<img src="images/2.png" width="160"/> <img src="images/3.png" width="160"/> <img src="images/4.png" width="160"/>
-
-### 국악 방송
-
-(공식) 실시간 국악 방송 어플리케이션 
-실시간 방송 듣기, 편성표 기능 제공
-
-- 소속 : NSoft Inc.
-- 기간 : 2010년 8월
-- 사용기술 : Objective-C 
-- 프로젝트 인원 : 기획 1명, 개발 1명, 디자인 1명
-- AppStore (http://itunes.apple.com/app/id393837434)
-
-<img src="images/5.png" width="160"/> <img src="images/6.png" width="160"/> <img src="images/7.png" width="160"/>
-
-### LG Smart Laundry
-
-LG 세탁기 진단 모드의 음성 인식을 통한 진단 어플리케이션
-스마트 진단, 코스 다운로드, 원격 제어 기능 제공
-
-- 소속 : NSoft Inc.
-- 기간 : 2010년 7월
-- 사용기술 : Objective-C
-- 프로젝트 인원 : 개발 1명 (음성 인식 라이브러리 및 디자인 : LG 제공)
-- AppStore (http://itunes.apple.com/app/id425153323)
-
-<img src="images/8.jpeg" width="160"/> <img src="images/9.jpeg" width="160"/> <img src="images/10.jpeg" width="160"/> <img src="images/11.jpeg" width="160"/>
-
-### Keyword Checker
-
-오버추어 키워드 광고 API를 이용한 키워드 검색 광고 메니징 툴
-
-- 소속 : (주) 에코마케팅
-- 기간 : 2009년 10월 ~ 2010년 7월
-- 사용기술 : Objective-C, ASP, MSSQL
-- 프로젝트 인원 : 기획 및 개발 1명, 디자인 1명
-- AppStore (https://itunes.apple.com/kr/app/id363704299)
-
-<img src="images/1.png" width="160"/>
+<a href="https://apps.apple.com/us/developer/pablo-paciello/id834434174" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+## Strydal
+[Strydal](https://strydal.com) turns your passion for teaching into a thriving online business. It allows coaches create courses, memberships/subscriptions, upload their video collections and moderate the live classes. The iOS app lets the users subscribe to courses, join live classes, watch on-demand videos, chat with their teachers and more.
+
+The live conference room was built using Twilio SDK (main features: one-on-one, one-to-many, community mode, live video player inside the room managed by the teacher, Airplay/HDMI and bluetooth headphones support). I was the sole mobile developer of the app.
+
+##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Twilio SDK, StreamChat API, Push Notifications, AWS SDK, REST API (GraphQL on an early MVP).
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="https://apps.apple.com/us/app/strydal/id1497878671" target="_blank"><img src="images/strydal/strydal.png" width="900" title="Strydal"></a>
+</p>
+
+## Buoywatch
+[Buoywatch](https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525) is an iOS & Apple Watch app made using **SwiftUI** and **Combine** as I've been playing around with the latest Apple frameworks since day one after the WWDC.
+It allows you to get real-time marine buoys data and get aware when the surf is good at a glance.
+Too often swell arrives later than predicted, by checking the buoy data you can determine if the swell has arrived. If not, you can go back to bed =)
+
+##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
+##### 🚀Platform: 📱iOS, ⌚️watchOS
+<p align="center">
+<a href="https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525" target="_blank"><img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch"></a>
+</p>
+
+## GlucoNightWatch
+[GlucoNigthWatch](https://gluconightwatch.com/) is an app that provides customizable alarm and remote monitoring for GNSentry device users. People with diabetes and their relatives can benefit from the customizable alarm system provided by the app when used with GNSentry and Free Freestyle. The GNSentry bracelet sends a measure of the Freestyle every 5 minutes via Bluetooth to the app, then it triggers the alarms when necessary.
+
+##### 🔨Technologies: Swift, Realm, Core Bluetooth, Charts, Push Notifications.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://gluconightwatch.com/" target="_blank"><img src="images/gnw/gnw.png" width="900" title="GlucoNightWatch"></a>
+</p>
+
+## MyBestPhotobook
+[MyBestPhotobook](https://apps.apple.com/us/app/photobook-app-mybestphotobook/id1402582617) allows you to crete and mail printed photo books easily in less than five minutes. Simply upload your photos to the app, edit and organize the layout however you like best. The most remarkable feature was an all-in-one photo picker which allows the user to import pictures from the device as well as from Instagram, Facebook, Dropbox, Google Photos and Google Drive. The picker was also implemented in [MyPostcard](#MyPostcard) app later on. Built on 2018/2019.
+
+##### 🔨Technologies: Swift, Realm, PhotoEditor SDK, Clean Architecture.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/us/app/photobook-app-mybestphotobook/id1402582617" target="_blank"><img src="images/myBestPhotobook/myBestPhotobook.png" width="900" title="MyBestPhotobook"></a>
+</p>
+
+## MyPostcard
+[MyPostcard](https://apps.apple.com/us/app/mypostcard-postcard-app/id858686797) lets you create, personalise and send printed photo postcards and greeting cards worldwide from your iPhone or iPad. It has a total of more than 1 million downloads and 4,000 5-star ratings. I've mostly worked on updating the Objective-C codebase, bug fixes and adding new features. Worked on it during 2018/2019.
+
+##### 🔨Technologies: Objective-C, Swift, PhotoEditor SDK.
+##### 🚀Platform: 📱iOS, iPad.
+
+## SUPERKORB
+[SUPERKORB](https://web.archive.org/web/20190714151041/https://superkorb.com/) is a smart shopping platform for fast-moving consumer goods. The app compares your basket with all major vendors and finds the best-priced offer. Check-out and payment are conveniently handled within the app. It combines major online shops to offer over 100.000 articles. Worked on it in 2018.
+
+##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://web.archive.org/web/20190714151041/https://superkorb.com/" target="_blank"><img src="images/superkorb/superkorb.png" width="900" title="SUPERKORB"></a>
+</p>
+
+## Bus Dich Weg
+[Bus Dich Weg](https://apps.apple.com/ca/app/bus-dich-weg/id1315973814) lets users connect their devices to an internal wi-fi network available on tourist buses. As soon as the user is connected to the wi-fi system, he will be able to start listening to the tourist guide's speech. The major chanllenge was to research, test, compile and calibrate an audio library that supported **rtsp** for iOS and make it work with the less latency as possible. Also, we had to simulate the straming device with a **Raspberry-pi** as we didn't have access to the customer's bus device. It was built in 2017/2018.
+
+##### 🔨Technologies: Swift, AVC Player, iBeacons, Push Notifications.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/ca/app/bus-dich-weg/id1315973814" target="_blank"><img src="images/bdw/bdw.png" width="900" title="SUPERKORB"></a>
+</p>
+
+## SPENN
+[SPENN](https://apps.apple.com/us/app/spenn/id1189735564?ls=1) is a cryptocurrency wallet app which allows a user to conduct transactions such as money transfers and receive payments. It uses blockchain under the hood to secure transactions. It also brings the users the possibility to create a business and get paid directly to their phone. Really cool project, I've loved working on it. We were 2 iOS Developers. We've used Flow Coordinators pattern for the architecture of the app. Built in 2016.
+
+##### 🔨Technologies: Swift, Flow Coordinators.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/us/app/spenn/id1189735564?ls=1" target="_blank"><img src="images/spenn/spenn.png" width="900" title="SPENN"></a>
+</p>
+
+## TravelKit - Mobile Traveller
+[TravelKit](https://apps.apple.com/fr/app/travelkit-for-mobile-traveller/id1146520530) geolocates travellers and sends safety, security and travel-related alerts specific to their location. It aslo make calls to an emergency hotline from within the app. Built in 2016.
+
+##### 🔨Technologies: Swift, Flow Coordinators, Push Notifications.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/fr/app/travelkit-for-mobile-traveller/id1146520530" target="_blank"><img src="images/travelKit/travelKit.png" width="900" title="TravelKit"></a>
+</p>
+
+## IATA - Economics
+[IATA - Economics](https://apps.apple.com/us/app/iata-economics/id1111567152) brings access to industry-leading economic analysis on key aviation issues and market trends. In-depth research, reports, charts, presentations, videos and more. It allows the user to receive personalized notifications when new content is available. I've mostly worked on addapting the already built iPad app to the iOS version and on adding new features to both iOS and iPad versions. I worked on it in 2016.
+
+##### 🔨Technologies: Swift, Push Notifications.
+##### 🚀Platform: 📱iOS, iPad.
+<p align="center">
+<a href="https://apps.apple.com/us/app/iata-economics/id1111567152" target="_blank"><img src="images/iata/iata.png" width="900" title="IATA"></a>
+</p>
+
+## Swappy Books
+[Swappy Books](https://apps.apple.com/us/app/swappy-books/id1198626384) lets you swap paper books with people nearby. It's a social network that uses **CloudKit ID** under the hood to keep track of user's published books without the need of requiring login/register process. 
+It was developed in 2017. It uses [Swiping Carousel](https://github.com/PPacie/SwipingCarousel), an open source library developed by me, to present the available books.
+
+##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/us/app/swappy-books/id1198626384" target="_blank"><img src="images/swappyBooks/swappyBooks.png" width="900" title="Swappy Books"></a>
+</p>
+
+## Tracing Board
+[Tracing Board](https://apps.apple.com/us/app/tracing-board/id1040566627) converts your iPad into an on-the-go light box. This is a tool for those of us who draw daily and sometimes need to re-draw sketches until we are pleased with the results.
+This was my first independent Swift app. It uses **Core Data** as persistency management. It was developed in 2015.
+
+##### 🔨Technologies: Swift, Core Data, Core Image.
+##### 🚀Platform: iPad
+<p align="center">
+<a href="https://apps.apple.com/us/app/tracing-board/id1040566627" target="_blank"><img src="images/tracingBoard/tracingBoard.jpg" width="900" title="Tracing Board"></a>
+</p>
+
+## Surfate
+It was a live streaming surf cams app. It got more than 230 surf spot webcams from al around the world. 
+It was developed in 2014/2015. It allowed the user to get a realtime picture of a selected surf spot on the **Notifications Widget**. It got discontinued due to copyright issues with the API providers.
+
+##### 🔨Technologies: Objective-C, WatchKit, App Extensions, AVPlayer.
+##### 🚀Platform: 📱iOS, ⌚️watchOS, iPad
+<p align="center">
+<a href="https://web.archive.org/web/20160304181919/http://surfate.com/" target="_blank"><img src="images/surfate/surfate.png" width="900" title="Surfate"></a>
+</p>
+
+## Big Mac Index
+[Big Mac Index](https://apps.apple.com/us/app/big-mac-index-app/id908062605) was my first iOS app published on the AppStore. It intends to show whether currencies are at their *"correct"* value. This index was invented by The Economist in 1986. The main purpose of developing this app was to put in practice everything I've been learning on online courses, books, etc. It was developed in 2013/2014 using **Objective-C**.
+
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="https://apps.apple.com/us/app/big-mac-index-app/id908062605" target="_blank"><img src="images/bigMacIndex/bigMacIndex.png" width="900" title="Big Mac Index"></a>
+</p>
+
+*Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
