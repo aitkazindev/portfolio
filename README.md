@@ -1,4 +1,4 @@
-<a href="https://apps.apple.com/us/developer/pablo-paciello/id834434174" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aitkazindev/?locale=ko_KR" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ## MusicSearch App
 [MusicSearch App] is an app to find music in ITunes.
@@ -36,11 +36,15 @@
 <a href="" target="_blank"><img src="images/MapKit.png" width="900" title="MapApp"></a>
 </p>
 
-## MyPostcard
-[MyPostcard](https://apps.apple.com/us/app/mypostcard-postcard-app/id858686797) lets you create, personalise and send printed photo postcards and greeting cards worldwide from your iPhone or iPad. It has a total of more than 1 million downloads and 4,000 5-star ratings. I've mostly worked on updating the Objective-C codebase, bug fixes and adding new features. Worked on it during 2018/2019.
+## CAReplicator
+[CAReplicator] is an app for demonstrating CALayer.
 
-##### 🔨Technologies: Objective-C, Swift, PhotoEditor SDK.
+##### 🔨Technologies:, Swift, CALayer
 ##### 🚀Platform: 📱iOS, iPad.
+
+<p align="center">
+<a href="" target="_blank"><img src="images/MapKit.png" width="900" title="MapApp"></a>
+</p>
 
 ## SUPERKORB
 [SUPERKORB](https://web.archive.org/web/20190714151041/https://superkorb.com/) is a smart shopping platform for fast-moving consumer goods. The app compares your basket with all major vendors and finds the best-priced offer. Check-out and payment are conveniently handled within the app. It combines major online shops to offer over 100.000 articles. Worked on it in 2018.
