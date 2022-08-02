@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/aitkazindev/?locale=ko_KR" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Ibrahim%20Aitkazin-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aitkazindev/?locale=ko_KR" target="_blank"><img src="https://img.shields.io/badge/Linked%20In-Ibrahim%20Aitkazin-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 
 ## MusicSearch App
 [MusicSearch App] is an app to find music in ITunes.
