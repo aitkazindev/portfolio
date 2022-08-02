@@ -1,14 +1,13 @@
 <a href="https://apps.apple.com/us/developer/pablo-paciello/id834434174" target="_blank"><img src="https://img.shields.io/badge/App%20Store-Pablo%20Paciello-green.svg?style=for-the-badge&logo=apple&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/ppacie" target="_blank"><img src="https://img.shields.io/badge/twitter-@ppacie-blue.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
-## Strydal
-[Strydal](https://strydal.com) turns your passion for teaching into a thriving online business. It allows coaches create courses, memberships/subscriptions, upload their video collections and moderate the live classes. The iOS app lets the users subscribe to courses, join live classes, watch on-demand videos, chat with their teachers and more.
+## MusicSearch App
+[MusicSearch App] is an app to find music in ITunes.
 
-The live conference room was built using Twilio SDK (main features: one-on-one, one-to-many, community mode, live video player inside the room managed by the teacher, Airplay/HDMI and bluetooth headphones support). I was the sole mobile developer of the app.
 
-##### 🔨Technologies: SwiftUI, MVVM + Clean Architecture, UI + Unit Tests, CI, Twilio SDK, StreamChat API, Push Notifications, AWS SDK, REST API (GraphQL on an early MVP).
-##### 🚀Platform: 📱iOS, iPad.
+##### 🔨Technologies: UiKit, MVC , RestApi;
+##### 🚀Platform: 📱iOS.
 <p align="center">
-<a href="https://apps.apple.com/us/app/strydal/id1497878671" target="_blank"><img src="images/strydal/strydal.png" width="900" title="Strydal"></a>
+<a href="" target="_blank"><img src="images/musicapp.png" width="900" title="Strydal"></a>
 </p>
 
 ## Buoywatch
