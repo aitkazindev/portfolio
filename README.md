@@ -18,13 +18,13 @@
 <a href="" target="_blank"><img src="images/carapp.png" width="900" title="CarApp"></a>
 </p>
 
-## GlucoNightWatch
-[GlucoNigthWatch](https://gluconightwatch.com/) is an app that provides customizable alarm and remote monitoring for GNSentry device users. People with diabetes and their relatives can benefit from the customizable alarm system provided by the app when used with GNSentry and Free Freestyle. The GNSentry bracelet sends a measure of the Freestyle every 5 minutes via Bluetooth to the app, then it triggers the alarms when necessary.
+## WeatherApp
+[WeatherApp] is an app that provides current weather in choosen city.
 
-##### 🔨Technologies: Swift, Realm, Core Bluetooth, Charts, Push Notifications.
+##### 🔨Technologies: Swift, UIKit, API.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://gluconightwatch.com/" target="_blank"><img src="images/gnw/gnw.png" width="900" title="GlucoNightWatch"></a>
+<a href="" target="_blank"><img src="images/weatherapp.png" width="900" title=""></a>
 </p>
 
 ## MyBestPhotobook
