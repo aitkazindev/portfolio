@@ -46,6 +46,3 @@
 <a href="" target="_blank"><img src="images/MapKit.png" width="900" title="MapApp"></a>
 </p>
 
-
-
-*Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
